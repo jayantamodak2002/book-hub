@@ -4,194 +4,174 @@
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "category": "fiction",
-    "price": 12.99,
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=400&fit=crop",
-    "description": "A classic American novel set in the Jazz Age, exploring themes of wealth, love, and the American Dream.",
-    "isbn": "978-0-7432-7356-5",
-    "pages": 180,
-    "rating": 4.2,
-    "published": "1925"
+    "image": "https://m.media-amazon.com/images/I/81x7LZ2NsyL.jpg"
   },
   {
     "id": 2,
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "category": "fiction",
-    "price": 14.99,
-    "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop",
-    "description": "A gripping tale of racial injustice and childhood innocence in the American South.",
-    "isbn": "978-0-06-112008-4",
-    "pages": 281,
-    "rating": 4.5,
-    "published": "1960"
+    "image": "https://m.media-amazon.com/images/I/81gepf1eMqL.jpg"
   },
   {
     "id": 3,
-    "title": "Sapiens",
-    "author": "Yuval Noah Harari",
-    "category": "non-fiction",
-    "price": 18.99,
-    "cover": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300&h=400&fit=crop",
-    "description": "A brief history of humankind, from the Stone Age to the modern era.",
-    "isbn": "978-0-06-231609-7",
-    "pages": 443,
-    "rating": 4.4,
-    "published": "2011"
-  },
-  {
-    "id": 4,
-    "title": "Educated",
-    "author": "Tara Westover",
-    "category": "non-fiction",
-    "price": 16.99,
-    "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=400&fit=crop",
-    "description": "A powerful memoir about education, family, and the struggle for self-invention.",
-    "isbn": "978-0-399-59050-4",
-    "pages": 334,
-    "rating": 4.6,
-    "published": "2018"
-  },
-  {
-    "id": 5,
-    "title": "Introduction to Algorithms",
-    "author": "Thomas H. Cormen",
-    "category": "academic",
-    "price": 89.99,
-    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=300&h=400&fit=crop",
-    "description": "Comprehensive guide to algorithms and data structures for computer science students.",
-    "isbn": "978-0-262-03384-8",
-    "pages": 1292,
-    "rating": 4.3,
-    "published": "2009"
-  },
-  {
-    "id": 6,
-    "title": "Calculus Early Transcendentals",
-    "author": "James Stewart",
-    "category": "academic",
-    "price": 79.99,
-    "cover": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?w=300&h=400&fit=crop",
-    "description": "Complete calculus textbook covering limits, derivatives, and integrals.",
-    "isbn": "978-1-285-74155-0",
-    "pages": 1368,
-    "rating": 4.1,
-    "published": "2015"
-  },
-  {
-    "id": 7,
     "title": "1984",
     "author": "George Orwell",
     "category": "fiction",
-    "price": 13.99,
-    "cover": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=300&h=400&fit=crop",
-    "description": "Dystopian novel about totalitarian surveillance and thought control.",
-    "isbn": "978-0-452-28423-4",
-    "pages": 328,
-    "rating": 4.7,
-    "published": "1949"
+    "image": "https://m.media-amazon.com/images/I/71kxa1-0mfL.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "fiction",
+    "image": "https://m.media-amazon.com/images/I/81dDwAzxNUL.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "fiction",
+    "image": "https://m.media-amazon.com/images/I/71Q1tPupKjL.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "category": "non-fiction",
+    "image": "https://m.media-amazon.com/images/I/713jIoMO3UL.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "non-fiction",
+    "image": "https://m.media-amazon.com/images/I/81WojUxbbFL.jpg"
   },
   {
     "id": 8,
     "title": "Atomic Habits",
     "author": "James Clear",
     "category": "non-fiction",
-    "price": 17.99,
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=400&fit=crop",
-    "description": "Practical strategies for building good habits and breaking bad ones.",
-    "isbn": "978-0-7352-1129-2",
-    "pages": 320,
-    "rating": 4.8,
-    "published": "2018"
+    "image": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg"
   },
   {
     "id": 9,
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "category": "fiction",
-    "price": 11.99,
-    "cover": "https://images.unsplash.com/photo-1518373714866-3f1478910cc0?w=300&h=400&fit=crop",
-    "description": "Classic romance novel about Elizabeth Bennet and Mr. Darcy.",
-    "isbn": "978-0-14-143951-8",
-    "pages": 279,
-    "rating": 4.3,
-    "published": "1813"
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "category": "non-fiction",
+    "image": "https://m.media-amazon.com/images/I/81h2gWPTYJL.jpg"
   },
   {
     "id": 10,
-    "title": "Thinking, Fast and Slow",
-    "author": "Daniel Kahneman",
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
     "category": "non-fiction",
-    "price": 19.99,
-    "cover": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=300&h=400&fit=crop",
-    "description": "Insights into how the mind makes decisions and judgments.",
-    "isbn": "978-0-374-53355-7",
-    "pages": 499,
-    "rating": 4.2,
-    "published": "2011"
+    "image": "https://m.media-amazon.com/images/I/71XhYrQxwUL.jpg"
   },
   {
     "id": 11,
-    "title": "Linear Algebra and Its Applications",
-    "author": "David C. Lay",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
     "category": "academic",
-    "price": 74.99,
-    "cover": "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?w=300&h=400&fit=crop",
-    "description": "Comprehensive linear algebra textbook with real-world applications.",
-    "isbn": "978-0-321-98238-4",
-    "pages": 512,
-    "rating": 4.0,
-    "published": "2015"
+    "image": "https://m.media-amazon.com/images/I/71S0N3Hd5gL.jpg"
   },
   {
     "id": 12,
-    "title": "Organic Chemistry",
-    "author": "Paula Yurkanis Bruice",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
     "category": "academic",
-    "price": 94.99,
-    "cover": "https://images.unsplash.com/photo-1532153955177-f59af40d6472?w=300&h=400&fit=crop",
-    "description": "Complete guide to organic chemistry principles and reactions.",
-    "isbn": "978-0-321-80322-1",
-    "pages": 1344,
-    "rating": 4.2,
-    "published": "2016"
+    "image": "https://m.media-amazon.com/images/I/41xShlnTZTL._SX374_BO1,204,203,200_.jpg"
   },
   {
     "id": 13,
-    "title": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "category": "fiction",
-    "price": 13.49,
-    "cover": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=400&fit=crop",
-    "description": "A fantasy adventure about Bilbo Baggins and his unexpected journey.",
-    "isbn": "978-0-547-92822-7",
-    "pages": 366,
-    "rating": 4.6,
-    "published": "1937"
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell & Peter Norvig",
+    "category": "academic",
+    "image": "https://m.media-amazon.com/images/I/71S5Xz0-6vL.jpg"
   },
   {
     "id": 14,
-    "title": "Steve Jobs",
-    "author": "Walter Isaacson",
-    "category": "non-fiction",
-    "price": 21.99,
-    "cover": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=300&h=400&fit=crop",
-    "description": "The authorized biography of Apple co-founder Steve Jobs.",
-    "isbn": "978-1-4516-4853-9",
-    "pages": 656,
-    "rating": 4.3,
-    "published": "2011"
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "category": "academic",
+    "image": "https://m.media-amazon.com/images/I/518FqJvR9aL.jpg"
   },
   {
     "id": 15,
-    "title": "Physics for Scientists and Engineers",
-    "author": "Raymond A. Serway",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma et al.",
     "category": "academic",
-    "price": 84.99,
-    "cover": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?w=300&h=400&fit=crop",
-    "description": "Comprehensive physics textbook covering mechanics, thermodynamics, and more.",
-    "isbn": "978-1-133-95405-7",
-    "pages": 1552,
-    "rating": 4.1,
-    "published": "2013"
+    "image": "https://m.media-amazon.com/images/I/81gtKoapHFL.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "fiction",
+    "image": "https://m.media-amazon.com/images/I/81t2CVWEsUL.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "fiction",
+    "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "fiction",
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "non-fiction",
+    "image": "https://m.media-amazon.com/images/I/71HMyqG6MRL.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "non-fiction",
+    "image": "https://m.media-amazon.com/images/I/71QKQ9mwV7L.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "category": "academic",
+    "image": "https://m.media-amazon.com/images/I/71O0CkU-n8L.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "category": "academic",
+    "image": "https://m.media-amazon.com/images/I/61mIq2iJUXL.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "category": "fiction",
+    "image": "https://m.media-amazon.com/images/I/81VStYnDGrL.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "category": "non-fiction",
+    "image": "https://m.media-amazon.com/images/I/81VStYnDGrL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "category": "non-fiction",
+    "image": "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg"
   }
 ]
