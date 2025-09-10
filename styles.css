@@ -114,10 +114,19 @@ body {
 }
 
 /* Hero Section */
-.hero {
+/* .hero {
     padding: 150px 0 100px;
     text-align: center;
     color: white;
+} */
+ .hero {
+    padding: 150px 0 100px;
+    text-align: center;
+    color: white;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+        url("/images/FDLnS05LfiBzCk8LgESN.jpg") no-repeat center center/cover;
+     background-attachment: fixed;
 }
 
 .hero-content h1 {
@@ -298,7 +307,6 @@ body {
     box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
 }
 
-/* Modal Styles */
 .modal {
     display: none;
     position: fixed;

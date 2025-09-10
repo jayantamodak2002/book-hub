@@ -58,7 +58,7 @@ h1 {
 }
 
 .tab-buttons button.active {
-  background: #ff758c;
+  background: #750bf0;
   color: white;
 }
 
@@ -82,7 +82,7 @@ h1 {
 .form button {
   margin-top: 10px;
   padding: 12px;
-  background: linear-gradient(45deg, #ff758c, #ff7eb3);
+  background: linear-gradient(45deg, #750bf0, #a40bf0);
   border: none;
   color: white;
   font-weight: bold;
